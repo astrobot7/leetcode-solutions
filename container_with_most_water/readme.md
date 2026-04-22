@@ -22,8 +22,7 @@ Input: height = [1,1]
 
 Output: 1
 
-
-Constraints:
+## Constraints:
 
     n == height.length
     2 <= n <= 105
